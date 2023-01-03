@@ -315,5 +315,6 @@ fi
 
 # Rl-Kubeseal
 # Tuiseal
+# kube_ps1 https://github.com/jonmosco/kube-ps1
 
 echo -e "${BBlue}Au revoir! ${Color_Off}"
